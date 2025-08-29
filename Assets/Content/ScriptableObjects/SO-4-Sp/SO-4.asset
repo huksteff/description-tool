@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cf975a98d8a49bd88d7ce74c217d854, type: 3}
+  m_Name: SO-4
+  m_EditorClassIdentifier: 
+  Description:
+    Element:
+    - ElementOnes:
+      - ETString: StringStringStringStringStringStringStringStringString
+        ETInt: 94
+      - ETString: ?????????????????????
+        ETInt: 20
+    - ElementOnes:
+      - ETString: ABC
+        ETInt: -78
+      - ETString: ABC
+        ETInt: -78
+    - ElementOnes:
+      - ETString: ABC
+        ETInt: -78
+      - ETString: ABC
+        ETInt: -78

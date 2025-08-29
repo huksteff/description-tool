@@ -1,0 +1,26 @@
+﻿.description-icon {
+    background-image: resource("Assets/Editor/DescriptionsTool/Icons/description-ico.png");
+    width: 20px;
+    height: 20px;
+    margin-right: 12px;
+    margin-left: -23px;
+}
+.folder-icon {
+    background-image: resource("Assets/Editor/DescriptionsTool/Icons/description-folder.png");
+    width: 20px;
+    height: 20px;
+    margin-right: 12px;
+    margin-left: -23px;
+}
+.folder-icon-hidden {
+    background-image: resource("Assets/Editor/DescriptionsTool/Icons/description-folder-hidden.png");
+}
+
+.search-icon {
+    background-image: resource("Assets/Editor/DescriptionsTool/Icons/searching.png");
+    width: 24px;
+    height: 24px;
+    -unity-background-image-tint-color: #e0e0e0;
+    margin-bottom: 16px;
+    margin-left: 15px;
+}

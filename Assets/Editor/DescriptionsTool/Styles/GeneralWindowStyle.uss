@@ -1,0 +1,9 @@
+@import "Lables.uss";
+@import "Containers.uss";
+@import "ListTree.uss";
+@import "Icons.uss";
+
+.window {
+    flex-grow: 1;
+    background-color: rgb(56, 56, 56);
+}
